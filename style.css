@@ -27,5 +27,12 @@ body{
     font-size: xx-large;
 }
 #T1{
-    font-size: 10px !important;
+    font-size: 50px !important;
+}
+#T2{
+    font-size: 30px !important;
+}
+#T3{
+    font-size: 15px !important;
+    text-transform: uppercase;
 }
